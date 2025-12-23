@@ -6,16 +6,16 @@
         <description>Moin 应用更新信息</description>
         <language>zh-CN</language>
         <item>
-            <title>版本 1.1.2</title>
-            <sparkle:version>1.1.2</sparkle:version>
-            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <title>版本 1.1.3</title>
+            <sparkle:version>1.1.3</sparkle:version>
+            <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <pubDate>Tue, 23 Dec 2025 17:15:49 +0800</pubDate>
-            <description><![CDATA[<ul><li>版本 1.1.2 更新</li></ul>]]></description>
+            <pubDate>Tue, 23 Dec 2025 17:25:34 +0800</pubDate>
+            <description><![CDATA[<ul><li>版本 1.1.3 更新</li></ul>]]></description>
             <enclosure
-                url="https://github.com/phantomdancer/Moin/releases/download/v1.1.2/Moin-v1.1.2-macOS-arm64.dmg"
-                sparkle:edSignature="pjcPidXayVvXPG2UP7RZwRP00nqTbK84Gs6smnpoFia+HCMRiq+3+GDTPooIKSxjj5nMoI+SP1MxE+n4s7ZWDQ=="
-                length="1912493"
+                url="https://github.com/phantomdancer/Moin/releases/download/v1.1.3/Moin-v1.1.3-macOS-arm64.dmg"
+                sparkle:edSignature="lfTFBIgW9riypluEefe70ps1asYjmdGSyaXbGT/2LMoS+cqZcSGY2PQFoaKb0kXOL/L3y+mXVMzS2w7DTn0BBw=="
+                length="1913889"
                 type="application/octet-stream"
             />
         </item>
