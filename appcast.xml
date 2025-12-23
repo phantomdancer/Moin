@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Moin 更新</title>
+        <link>https://phantomdancer.github.io/Moin/appcast.xml</link>
+        <description>Moin 应用更新信息</description>
+        <language>zh-CN</language>
+        <item>
+            <title>版本 1.1.0</title>
+            <sparkle:version>1.1.0</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <pubDate>Tue, 23 Dec 2025 16:59:35 +0800</pubDate>
+            <description><![CDATA[<ul><li>版本 1.1.0 更新</li></ul>]]></description>
+            <enclosure
+                url="https://github.com/phantomdancer/Moin/releases/download/v1.1.0/Moin-v1.1.0-macOS-arm64.dmg"
+                sparkle:edSignature="Y8lP+lpg3kbLBVzWNYhDks8jkS0N9RTywPykTvlAwsc3hswRyICgKU6IxYpWrom+wwoccdMrwFShyFIOI6zCAQ=="
+                length="1910599"
+                type="application/octet-stream"
+            />
+        </item>
+    </channel>
+</rss>
