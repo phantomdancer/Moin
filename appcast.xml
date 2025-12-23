@@ -10,12 +10,12 @@
             <sparkle:version>1.1.1</sparkle:version>
             <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <pubDate>Tue, 23 Dec 2025 17:04:14 +0800</pubDate>
+            <pubDate>Tue, 23 Dec 2025 17:09:01 +0800</pubDate>
             <description><![CDATA[<ul><li>版本 1.1.1 更新</li></ul>]]></description>
             <enclosure
                 url="https://github.com/phantomdancer/Moin/releases/download/v1.1.1/Moin-v1.1.1-macOS-arm64.dmg"
-                sparkle:edSignature="K31Y6GU60rZAWNWMllO8GgdP8FqTxDL64coWQtnX1X+C0K881lRVEdAHQR/G8axjR6RIU7iTGLU+ddavXP0gAw=="
-                length="1912409"
+                sparkle:edSignature="8y2EkKDbpl21Uz03K/5c6IvHMDyub3cCInMkizd13S2LrM2GAPT2MdksCG+uq5jHCr/70ZrCOZKL6PcTbul+Ag=="
+                length="1912482"
                 type="application/octet-stream"
             />
         </item>
