@@ -10,7 +10,7 @@
             <sparkle:version>1.1.9</sparkle:version>
             <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <pubDate>Thu, 25 Dec 2025 09:44:51 +0800</pubDate>
+            <pubDate>Thu, 25 Dec 2025 13:08:47 +0800</pubDate>
             <description><![CDATA[<h3>v1.1.9</h3><ul><li>应用会自动检查所需权限，并引导您完成授权。</li>
 <li>在菜单栏添加了“权限设置...”选项，方便您随时查看和调整应用权限</li></ul><h3>v1.1.8</h3><ul>1. **录制增强：支持显示键盘按键和鼠标点击效果**  
    - 录制过程中新增键盘按键和鼠标点击的可视化显示功能  
@@ -25,8 +25,8 @@
 <li>倒计时由 3 秒减少到 2 秒</li></ul>]]></description>
             <enclosure
                 url="https://github.com/phantomdancer/Moin/releases/download/v1.1.9/Moin-v1.1.9-macOS-arm64.dmg"
-                sparkle:edSignature="K/gwaMxqtAtXgLdBb5BX4NrFDGbdJJ0sBxAYj3byh+LZdAL2v276JmlB06slV5W3toMt8+dBQa1vIS163YiUAw=="
-                length="1941691"
+                sparkle:edSignature="S7Vi55TPCBkD5H0tauHp/85vic7csfV+4W0rEaOLIH8Kpb5yUckVJEVDbURRzHfdQBrGPux1anadJ7H0RhRoDA=="
+                length="1941989"
                 type="application/octet-stream"
             />
         </item>
