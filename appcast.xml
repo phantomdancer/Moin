@@ -10,7 +10,7 @@
             <sparkle:version>1.1.10</sparkle:version>
             <sparkle:shortVersionString>1.1.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <pubDate>Sun, 04 Jan 2026 10:44:23 +0800</pubDate>
+            <pubDate>Sun, 04 Jan 2026 10:45:34 +0800</pubDate>
             <description><![CDATA[<h3>v1.1.10</h3><ul><li>实现 GIF 和截图历史记录的过期自动清理</li>
 <li>添加历史记录保留天数设置选项</li>
 <li>支持 7、14、30、60、90、180、365 天及永久保留选项</li>
@@ -27,8 +27,8 @@
    - 在工具栏处理截图时，自动保存截图到历史记录，确保操作一致性  </ul>]]></description>
             <enclosure
                 url="https://github.com/phantomdancer/Moin/releases/download/v1.1.10/Moin-v1.1.10-macOS-arm64.dmg"
-                sparkle:edSignature="yHKBK5svHU/hYBiztLybLXMzArIofkXG7E5ZNBld1J6aRsm7jvGTzDyv6tjH4vBJGMyPWu9QHhWJxL86+KeBDg=="
-                length="1983582"
+                sparkle:edSignature="zPNXK0+8twaWhvE9YqIMEqi1bG7AfGhoe7PyQeKbFTll9KWsJisnFOl7AA0E59MgmLNnGfrE9Ex+cdcULGppDg=="
+                length="1983581"
                 type="application/octet-stream"
             />
         </item>
