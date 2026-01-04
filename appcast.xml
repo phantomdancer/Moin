@@ -10,7 +10,7 @@
             <sparkle:version>1.1.12</sparkle:version>
             <sparkle:shortVersionString>1.1.12</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <pubDate>Sun, 04 Jan 2026 15:25:25 +0800</pubDate>
+            <pubDate>Sun, 04 Jan 2026 16:12:29 +0800</pubDate>
             <description><![CDATA[<h3>v1.1.12</h3><ul><li>移动状态栏图标设置到权限检查之前，确保用户可以退出或重新授权</li>
 <li>添加权限状态轮询机制，实时监控权限变化</li>
 <li>在引导页面添加权限轮询的开始和停止逻辑</li></ul><h3>v1.1.11</h3><ul><li>实现 GIF 和截图历史记录的过期自动清理</li>
@@ -20,8 +20,8 @@
 <li>在菜单栏添加了“权限设置...”选项，方便您随时查看和调整应用权限</li></ul>]]></description>
             <enclosure
                 url="https://github.com/phantomdancer/Moin/releases/download/v1.1.12/Moin-v1.1.12-macOS-arm64.dmg"
-                sparkle:edSignature="jl1mn01gmzI18/inKdTexjNEBuSsTbBC4OrKJ4reoRUy0YsrSO6jEUrl6tqFY+WknbK4gU5YGvX504WptKz8Dg=="
-                length="1982373"
+                sparkle:edSignature="2S2lH4nPE1imZi4O/vN5yMq1hFlZxqVl5Gnrvw8U/aQbjgjCV8ydAyNK0lixufJT+Ox4EHhJojBAa9/XQAZZDw=="
+                length="1982051"
                 type="application/octet-stream"
             />
         </item>
