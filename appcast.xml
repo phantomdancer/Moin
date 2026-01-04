@@ -6,11 +6,11 @@
         <description>Moin 应用更新信息</description>
         <language>zh-CN</language>
         <item>
-            <title>版本 1.1.9</title>
-            <sparkle:version>1.1.9</sparkle:version>
-            <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
+            <title>版本 1.1.10</title>
+            <sparkle:version>1.1.10</sparkle:version>
+            <sparkle:shortVersionString>1.1.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <pubDate>Sun, 04 Jan 2026 10:01:35 +0800</pubDate>
+            <pubDate>Sun, 04 Jan 2026 10:38:27 +0800</pubDate>
             <description><![CDATA[<h3>v1.1.9</h3><ul><li>应用会自动检查所需权限，并引导您完成授权。</li>
 <li>在菜单栏添加了“权限设置...”选项，方便您随时查看和调整应用权限</li></ul><h3>v1.1.8</h3><ul>1. **录制增强：支持显示键盘按键和鼠标点击效果**  
    - 录制过程中新增键盘按键和鼠标点击的可视化显示功能  
@@ -21,12 +21,14 @@
 2. **截图历史窗口：新增“贴到屏幕”功能**  
    - 截图历史窗口中增加“贴到屏幕”按钮，可将截图以贴纸形式固定在屏幕上显示  
    - 优化复制按钮文本，从“复制”改为“复制到剪贴板”，提示更清晰  
-   - 在工具栏处理截图时，自动保存截图到历史记录，确保操作一致性  </ul><h3>v1.1.7</h3><ul><li>cmd + ctrl + g 直接录制 GIF</li>
-<li>倒计时由 3 秒减少到 2 秒</li></ul>]]></description>
+   - 在工具栏处理截图时，自动保存截图到历史记录，确保操作一致性  </ul><h3>v1.1.10</h3><ul><li>实现 GIF 和截图历史记录的过期自动清理</li>
+<li>添加历史记录保留天数设置选项</li>
+<li>支持 7、14、30、60、90、180、365 天及永久保留选项</li>
+<li>清理过期文件并更新历史索引</li></ul>]]></description>
             <enclosure
-                url="https://github.com/phantomdancer/Moin/releases/download/v1.1.9/Moin-v1.1.9-macOS-arm64.dmg"
-                sparkle:edSignature="LOtK+kNm6xjypGMbpX0+F3Q48H2v709Qs+5iCQUa+RI9x3Pv5EuEIioZymidnFU4rlfLI4mdX16kip1MijnsDg=="
-                length="1973007"
+                url="https://github.com/phantomdancer/Moin/releases/download/v1.1.10/Moin-v1.1.10-macOS-arm64.dmg"
+                sparkle:edSignature="kvB1l69cnBakCZJosc1FOoEzYcxoRMeBz7/rLe5ZtEWF5pBgcvbWf72UXL+44WGb2uONTPVt53iEuqxeLOORCw=="
+                length="1983593"
                 type="application/octet-stream"
             />
         </item>
